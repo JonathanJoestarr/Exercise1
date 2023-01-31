@@ -42,22 +42,22 @@ public class CardTrick {
      */
     private static void printInfo() {
     
-        System.out.println("Congratulations, you guessed right!");
+        System.out.println("Congratulations, you guessed the correct Card Value!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Jonah, Jonah Gorcsi, but you can just call me by my first name");
         System.out.println();
         
-        System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("My career ambition: I plan on either becoming a web designer, or a marketer");
+        System.out.println("-- I will develop a website that hosts my portfolio");
+        System.out.println("-- I wish to do well in College and most importantly, learn.");
 	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Gaming");
+        System.out.println("-- Listening to Music");
+        System.out.println("-- Roleplaying");
+        System.out.println("-- Editing Videos");
 
         System.out.println();
         
